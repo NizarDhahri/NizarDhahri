@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NizarDhahri
-- 👀 I’m interested in remote healthcare monotoring
+- 👀 I’m interested in remote healthcare monitoring
 - 🌱 I’m currently learning ECG features extraction techniques
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dhahri467@gmail.com
